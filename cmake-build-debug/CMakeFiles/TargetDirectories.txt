@@ -1,0 +1,3 @@
+C:/Users/Juliano/CLionProjects/aquecimentoCplusplus/cmake-build-debug/CMakeFiles/teste.dir
+C:/Users/Juliano/CLionProjects/aquecimentoCplusplus/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Juliano/CLionProjects/aquecimentoCplusplus/cmake-build-debug/CMakeFiles/rebuild_cache.dir
